@@ -1,0 +1,5 @@
+# Virtual environment
+aghHack/
+venv/
+.env/
+.venv/
