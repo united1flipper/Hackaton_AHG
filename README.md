@@ -49,7 +49,7 @@ cd Hackaton_AGH
 ### 2. Create a Virtual Environment
 
 ```bash
-python -m venv aghHack
+py -3.11 -m venv aghHack
 # On Windows
 aghHack\Scripts\activate
 # On macOS/Linux
