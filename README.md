@@ -81,7 +81,7 @@ pip install -r requirements.txt
 
 ## 👥 Contributors
 
-- [Halat Adrian]
-- [Krzeminska Paulina]
-- [Makowski Dominik]
-- [Tuszynski Tomasz]
+- [H. A.]
+- [K. P.]
+- [M. D.]
+- [T. T.]
